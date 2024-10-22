@@ -17,6 +17,7 @@ This project utilizes an Arduino to read values from a sensor and control multip
 - Breadboard and jumper wires
 
 ## Circuit Diagram
+![Circuit Diagram](circuit.png)
 
 
 ## Code Overview
